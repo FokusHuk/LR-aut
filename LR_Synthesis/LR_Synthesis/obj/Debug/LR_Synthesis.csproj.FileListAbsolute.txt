@@ -1,0 +1,7 @@
+C:\Users\Ilya Axenov\source\repos\LR_Synthesis\LR_Synthesis\bin\Debug\LR_Synthesis.exe.config
+C:\Users\Ilya Axenov\source\repos\LR_Synthesis\LR_Synthesis\bin\Debug\LR_Synthesis.exe
+C:\Users\Ilya Axenov\source\repos\LR_Synthesis\LR_Synthesis\bin\Debug\LR_Synthesis.pdb
+C:\Users\Ilya Axenov\source\repos\LR_Synthesis\LR_Synthesis\obj\Debug\LR_Synthesis.csprojAssemblyReference.cache
+C:\Users\Ilya Axenov\source\repos\LR_Synthesis\LR_Synthesis\obj\Debug\LR_Synthesis.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Axenov\source\repos\LR_Synthesis\LR_Synthesis\obj\Debug\LR_Synthesis.exe
+C:\Users\Ilya Axenov\source\repos\LR_Synthesis\LR_Synthesis\obj\Debug\LR_Synthesis.pdb

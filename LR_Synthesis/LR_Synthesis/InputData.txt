@@ -1,0 +1,9 @@
+﻿i*(i+i)
+7
+S~A|
+A~T
+A~+T
+A~A+T
+A~A*T
+T~i
+T~(A)
